@@ -1,0 +1,7 @@
+{
+  "name": "persona-ideal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo interactivo 'Persona ideal' (concepto para app de citas)",
+  "engines": { "node": ">=18" }
+}
